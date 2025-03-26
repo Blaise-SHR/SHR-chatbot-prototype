@@ -1,0 +1,8 @@
+langchain
+openai
+google-generativeai
+faiss-cpu
+python-dotenv
+requests
+tiktoken
+langchain-community

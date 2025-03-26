@@ -1,0 +1,15 @@
+SHR FAQ - knowledgeBase
+
+Issues
+EEE, CSR, ESG all will have different links for the same thing.
+
+
+
+Example structure
+Query: "How to view the dashboard"
+Label/Answer: 
+Go to “https://www.mysuperhumanrace.com/home/about/our-story”, 
+Click on top-right “Login” button, 
+Click on EEE, CSR or ESG based on your Account type.
+Login to your account,  
+Link: [Insert dashboard link here]

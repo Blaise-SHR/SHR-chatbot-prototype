@@ -1,0 +1,30 @@
+[ DELETE THIS FILE. This is just for blaise reference ] 
+-------------------------------------------------------
+
+File structure:
+SHR_Chatbot
+|-knowledge-base
+    |-platform-navigation-guide
+    |-shr-faq
+|- .env
+|- chatbot.py           --Main chatbot code
+|- config.py            --Loads the gemini api key
+|- main.py              --Execution file
+|- navigation.py        --Handles navigation related queries
+|- Progress report.txt  // (this file has no contribution to the project)
+|- requirements.txt     --Libraries and modules
+
+To-Do:
+------
+* Navigation.py may or may not handle the navigations properly. work on it after knowledge base is done
+* Create knowledge base for "shr-faq"  &  "platform-navigation-guide"
+* Make an efficient prompt template for the chatbot
+* Cross questioning if it doesnt understand the question
+* it should segregate CSR, ESG AND EEE
+* Create a small UI for testing purpose
+
+
+Done:
+------
+* So far; .env, chatbot.py, config.py, requirements.txt  are working. 
+* Have to work on main.py and navigation.py

@@ -1,0 +1,2175 @@
+﻿Platform Training - Guidebook v2 A long, thin rectangle to divide sections of the document 
+Prepared for: Product Delivery Team
+Prepared by: Product Delivery Lead
+Last updated on: 7 March 2025
+
+
+Table of Contents:       
+
+
+Section
+	Page. No
+	Getting Started with SuperHumanRace
+	3
+	Module 0: How to Create your own account & map it to SuperHumanRace
+	4
+	Module 1: Account Creation - All Products                                                                                                                                                                                                                                
+	6
+	Module 2: Entity Creation - All Products 
+	11
+	Module 3: Teams & Access - All Products        
+	13
+	Module 4: Project Form - ESG     
+	15
+	Module 5: Indicators - All Products     
+	18
+	Module 6: Dashboard Creation - All Products
+	25
+	Module 7: Universe Cards - ESG       
+	28
+	Module 8: CSR project Creation - CSR
+	30
+	Module 9: Set Budget - CSR
+	33
+	Module 10: Automated Report Creation - All Products
+	39
+	Module 11: Deep Data Module - All Products
+	42
+	Module 12: Create Stories - EEE
+	46
+	Module 13: Create Events - EEE
+	49
+	Module 14: Import Wizard - All Products
+	53
+	Module 15: Automated Email Templates - All Products
+	54
+	Module 16: Milestones - CSR
+	56
+	Module 17: Due Diligence - All Products
+	59
+	Module 18: Overview Customization - CSR
+	61
+	A. Other Controller Features
+	63
+	B. Individual Account: 360° View 
+	64
+	C. Engagement Barometer & Engagement Calendar
+	66
+	Module 19: Data Entry (CSR + ESG)
+	67
+	
+
+
+
+
+
+
+
+Getting Started with SuperHumanRace
+Welcome to SuperHumanRace! We are incredibly excited to have you here! :) 
+
+
+As first steps, here’s a quick brief on the 3 SaaS products that you will be working with, at your time with SHR.
+
+
+1. Business Sustainability / ESG Automation - Reading Resources for Subject Matter Knowledge
+2. CSR Automation
+3. Experiential Employee Engagement
+
+
+The 3 Platforms that we use:
+
+
+1. UAT / Testing
+2. GreenDash / Testing
+3. PROD / For actual clients
+
+
+* For your self-training, please use GreenDash.
+
+
+IMP Resources that you need to keep referring to:
+1. Credentials Link - You will find all required credentials for all 3 platforms, to get started with.
+2. Engagement Barometer - You will find all details regarding active clients.
+3. Google Drive for ESG Clients - Centralized system for all client information.
+4. Google Drive for CSR & EEE Clients - Centralized system for all client information.
+5. CSR Training Video.
+6. Delegated Access to Support Email ID - Please get in touch with the HR if not received.
+7. Your Personalized Onboarding Training Checklist - Should have been shared 1v1 by HR, please get in touch with HR if not received. 
+
+
+Now that we’re up to speed with all relevant resources and context, let’s get started with your training! I hope you have a fun time with the platform. Do feel free to note any product optimization, UI/UX, etc. recommendations that you may have, while getting a look and feel of the platform   :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module 0: How to Create your own account & map it to SuperHumanRace on the SHR Platform
+
+
+Context: As part of the Product Delivery Team, you will assist clients & NGOs in setting up the product deployment, on the SHR Platform. In order to do this, you will need to have your own account on the SHR platform, with your employer marked as ‘SuperHumanRace’. This is interlinked to Module 1: Account Creation’s training. You need to set this up only on the PROD platform.
+
+
+To do this:
+
+
+Step 1: Go to https://www.mysuperhumanrace.com/login, and click on Sign Up Today!
+
+
+  
+
+
+
+Step 2: Add your details - First & Last Name, official work ID received during joining (name@mysuperhumanrace.com), phone number, password.
+
+
+  
+
+
+
+Step 3: You will receive an email on your email ID, click on ‘Verify’. Upon verification, you will get redirected to the SHR Platform. Since you have the SuperHumanRace domain, you will get auto-mapped to SuperHumanRace, as an employee.
+
+
+  
+
+
+
+Step 4: Once logged in, please ask relevant team members working on client accounts, to give you access to the client, via Teams.
+
+
+  
+
+
+
+Step 5: Click on the ‘Settings’ icon > Add Areas of Interest, Birthday, Profile picture, & Location. Now, you’re all set to work on client accounts!
+
+
+  
+
+Module 1: Account Creation
+Context: 3 types of accounts can be created on the platform: Individual (user) account, Corporate (business/master) account & NGO (implementing partners for CSR) account. NGOs are usually onboarded via corporate clients doing CSR projects. However, NGOs can create accounts on the platform for free, with limited module access. Note: There are 2 types of corporate/business accounts: CSR & ESG.
+
+
+Step 1: Use relevant login URLs from the Credentials Link document to go to the CSR Login, for either UAT, PROD, or GreenDash and click on Create Account.
+
+
+  
+
+
+
+Step 2: Select the type of account, and create accounts by adding information (Practice tip: We use dummy data for practice, i.e. not real email ids/phone numbers). For your email ID: Use a common domain name as your ‘corporate’ account. This makes it easier to link the individual account to your corporate account. For Corporate/Master accounts for clients, a centralized mailbox is used.
+Example: csr@companyname.com.
+
+
+  
+
+
+
+Example: If you wish to create an account for Puma, Your corporate account would be csr@puma.in, and an individual account would be set as name@puma.in. Please ensure you are not using real email addresses. 
+
+
+  
+
+
+
+Step 3: Please follow the same steps as Module 0 to set up any account on the platform. Once done, you will have to ‘Verify’ the email by going to the Support Email ID’s Sent, as the account you will be creating is not a real Email ID. Note: Please keep all credentials for accounts on a doc/sheet.
+
+
+This is how a basic INDIVIDUAL account looks like - live feed. The interface changes upon connecting an account to its employer and providing teams access (will be covered in further modules). 
+
+
+  
+
+
+
+For Corporate/NGO Account Set-Up:
+
+
+Step 4: (Only for corporate/NGO accounts) Access the admin dashboard via Credentials. Once the account is made it will show up on the admin dashboard - backend - not visible to clients. 
+
+
+  
+
+
+
+Step 5: Search for your email. Click on the ‘verification’ button. Change the status to confirm in all the following boxes. NGO Accounts - For point 11: Non-profit partner agreement, select admin confirm. Once that is done, click on submit and refresh the page of your main account. (Practice tip: You might have to change the status to confirm a couple of times for it to get verified completely.)
+
+
+  
+
+
+
+  
+
+
+
+
+
+Step 7: Login to your Corporate/NGO Account. The status should now be verified against all the sections. NGO Account - Scroll to the bottom of the page and tap on read agreement.
+
+
+  
+
+
+
+
+
+Step 8: Once the verification is complete, this is how your account dashboard would look like - For MASTER Corporate - CSR OR NGO account.
+
+
+  
+
+
+
+
+Note: The interface changes for an ESG account. Follow the steps below to choose switch a corporate account to a ESG Corporate account:
+
+
+Step 9: Click on the ‘View’ button.
+
+
+  
+
+
+
+
+
+Step 10: Click on ‘View Permissions’.
+
+
+
+
+  
+
+
+
+
+
+Step 11: Toggle on the ‘ESG Dashboard’ OR ‘CSR Dashboard’ OR ‘EEE Dashboard’ as per the product you want to use.
+  
+
+
+
+Step 11: This is how a MASTER account should look like upon login.
+
+
+  
+
+Recap:
+
+
+* Types of accounts: Individual, Corporate (CSR & ESG) & NGO.
+* Platform: UAT, GreenDash - Testing, PROD - Clients.
+* Account verification: Verify from Admin - ONLY for dummy accounts, not clients.
+
+
+
+
+
+
+
+
+
+
+Module 2: Entity Creation
+Context: An entity is created only for Corporate/Master & NGO accounts. An organization can have multiple entities on the platform, linked to multiple NGOs/employees/Implementing partners, via the same Master account.
+
+
+(Practice tip: While creating a dummy entity, make sure you do not create an email with the same domain name as an existing corporation. Instead, create a similar domain name. You can follow the format: csr@------------------.com & esg@-------------------------------.com.)
+
+
+Step 1: Once you login to your corporate account, click on the settings on the top menu.
+
+
+Step 2: You can add relevant information like area of work, industry and company logo from this page. The logo should have a transparent background and in .png format. Once done, Click on ‘registered entity name’.
+
+
+  
+
+
+
+Step 3: Fill in the entity details and click on save.
+
+
+  
+
+
+
+Step 4: To connect the employees of the entity directly to the client account, we ensure that the same domain name is used for the master account as well as the employees. 
+Ex: If your company’s account is - csr@puma.in, the employee accounts can be name@puma.in This way, the employee gets connected to the employer automatically. You can also add multiple domains so employees with other domains in their email IDs can get connected. This can be done by adding your domain name via ‘connected domain’.
+
+
+Step 5: You can also add a domain name by clicking on the globe icon below.
+
+
+  
+
+
+
+
+
+Step 6: You can also view all domains connected to the account by clicking on the same button.
+
+
+  
+
+
+
+
+
+Step 7: Once the entity is created, verify it by going to the admin dashboard. Click on View > Entity, under Profile.
+
+
+Step 8: Toggle the button from ‘pending’ to ‘verified’.
+
+
+  
+
+
+
+
+
+Recap: 
+* Multiple entities can be created via one corporate account/client. 
+* Multiple domain names can be connected to a single entity.
+* Domain names help in employees being connected automatically to the employer.
+
+
+Module 3: Teams & Access
+Context: Once employees are connected to the master account, individual employees can gain access to specific modules on the platform, based on their role in the company. 
+Example: A CSO/CSO office individual will have complete access to all modules - to view all company data, but an HR provider will have only access to enter HR data. This access is completely configurable and customizable for each employee.
+
+
+Step 1: Once you login in to your corporate account, you will view the ‘controller’.You can view different modules via the controller.
+
+
+Step 2: Click on Teams —> ‘add Teams’.
+
+
+  
+
+
+
+Step 3: Fill in the details below & save and close.
+Details:
+i. Team Name - Enter the team name
+Example: CSO, Admin, HR, etc. A group of people can be given the same access by adding them to the same team. So, all HR people can be grouped into one team, even if they will add data for different levels / projects.
+ii. Team Type - Select team type based on the account type.
+iii. Template - Access is of 3 types - data providers (data entry or edit rights), data approvers (data approval rights), & data informed (who can have viewing rights). There are 5 types of templates - data provider, data approver, data-informed, CSO, & CSO office. The CSO office & CSO can view the entire data sets (similar to informed).
+iv. Universe - This will be covered in further modules. 
+v. CSR Access Pages - Will be covered below.
+vi. Master & Login Dashboard - To select different types of login interfaces for different users.
+
+
+Step 4: Once the teams are created, you can view all the teams.
+
+
+Step 5: Click on the ‘add members’ tab and fill in the details of the individual account of the employee you want to connect to the team as shown below and save and close.
+
+
+
+
+Step 6: Click on the ‘add tag tab’ to give access to particular indicators to the team (tags & indicators will be covered below). (Note: Access for tags can be given to the entire team, not specific individuals).
+
+
+Step 7: Select all applicable tags and save.
+  
+
+
+
+Step 8: You can provide access at specific levels or for specific indicators, or select full access.
+
+
+  
+
+
+
+Recap:
+
+
+* Teams are created to provide access to individual employees.
+* Types of access: data provider, approver, informed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module 4: Project Form
+Context: This module is available only for ESG accounts. We follow a 5-level structure on the platform. This is configurable and can be shifted as per the client. An example of structure is: Buildings - Phases - Regions - Zones - Head Office. The structure is based on reporting levels of the corporation.
+
+
+Step 1: Login to your account. On the ‘controller’, select the project form option and then click on ‘+Add’.
+  
+
+
+
+
+
+Step 2: Enter the form title, select the purpose of your project, and add a question title. After adding all the relevant details, click on the save form.
+
+
+  
+
+Step 3: Once the form is created, you will be able to access it and add names for the projects through the form. 
+
+
+Step 4: When you click on add Data, a form like this pops up.
+
+
+  
+
+
+
+
+
+Details:
+i. Name - This is your lowest/5th level. Example: Offices.
+ii. Hashtag - This is your 4th level.
+
+
+Step 5: Once projects are added, Click on ‘projects’ on the top menu, next to ‘data’. Here, you can see all the projects you’ve created. (Note: You can group multiple projects - showroom - under the same # if it falls under the same phase.) Similarly, you can group multiple phases to the same regions, multiple zones to the same region, and so on
+
+
+  
+
+
+
+
+
+Step 6: Go to ‘Org. structure’ on the controller. Click on the edit icon to add a name for each reporting level. Click on the arrow to add higher levels, L3 and above.
+
+
+  
+
+Step 8: For the upper 3 levels, click on ‘add’ to add a level. Edit the duration of the level.
+
+
+  
+
+
+
+Step 9: Group levels below this level, by clicking on ‘add child’ and linking the levels.
+
+
+  
+
+  
+
+
+
+Recap:
+
+
+* 5-level (configurable) reporting structure where data can be collected.
+* Create levels 4 & 5 via project form, and upper 3 levels via bunching (organization structure).
+* Employees can be given access to data entry/approval at any level (via teams).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module 5: Indicators 
+Context: Indicators are relevant metrics to be added at any level - for ESG, and per project - for CSR. For ESG - Indicators must be added at whichever level the reporting is done. Data through these indicators gets aggregated to the upper levels.
+Example: If data is added via indicators for 2 buildings - 5th level - summation of this will get aggregated at 4th level - hence a summation of these is NOT to be added at the 4th level. Indicators help collate the data on the dashboard. We use the PST (Primary-Secondary-Tertiary) format for the indicators. 
+Example: For an MHM (menstrual hygiene management) project, the simplest custom metrics could look like this:
+Primary / Layer 1: Number of girls impacted (Unit: Girls)
+Secondary / Layer 2: Name of school / class (Unit: Girls)
+Tertiary / Layer 3: For each school / class
+   Attendance (Unit: Percent)
+   Proficiency (Unit: Percent)
+   Dropout Rate (Unit: Percent)
+
+
+This oversimplified example can be improved by using the SDGs metadata (as well as guidance from custodian organizations from the SDG indicators to create the custom metrics). 
+
+
+Before creating any indicators on the platform, all indicators must be noted on a G-Sheet. 
+
+
+
+
+Reference for Indicators: ESG | CSR.
+
+
+1. Creating Indicators on G-Sheets:
+
+
+You will first have to understand everything required to create an indicator set.  For every indicator, whether it is primary, secondary or tertiary, you should ask the following questions:
+i. What should the frequency be - Is the data to be collected / calculated monthly, quarterly, bi-annualy, annually, or one-time?
+ii. What is the metric type for the indicator - Will it be a direct data input that someone will add, or will it be a calculation? If it is to be a calculation, what should the calculation look like? The following calculations are available on the SHR platform: Summation, Average, Difference, Division, Product, Percentage, Multiplication Factor, Emission Factor.
+iii. What should the Achievement Formula look like for the indicator - Should the data in the indicator be summation (summed up between projects and dates), average (average either between projects or dates), OR as of (data added in the most recent date instance to be picked up)?
+
+
+2. Create Indicators on the SHR Platform:
+Step 1: For ESG - go to ‘projects’ - click on the + button besides any project at any levels. For CSR projects - click on the project name from the overview page (individual account) and select ‘+KPIs’.
+  
+
+
+
+Step 2: When you click on the + button besides any project, click on ‘add metrics’.
+
+
+  
+
+
+
+Step 3: You can create new or replicate metrics as per your need.
+
+
+  
+
+
+
+Step 4: Click on ‘create template’ - enter a template name (Example: Scope 1 & 2 Emissions / Menstrual Hygiene Management) and click on next.
+
+
+
+
+
+
+Step 5: Add the primary, secondary and tertiary metrics from your PST sheet, you can add new or select from existing options and edit and delete as per your requirement. Also add their units.
+
+
+  
+
+
+
+Step 6: You can check the details that you have filled so far and add more information if required as shown in the configure tab. Click on next on the bottom right.
+
+
+  
+
+
+
+Step 7: Mention the start and end date as per the requirement (can be project duration, or custom), select the relevant SDGs related to the indicator and click on next. The indicator will get generated.
+
+
+For Frequency, keep in mind that if:
+* Monthly - all dates from the start to end date will get generated.
+* One-time - start date will get generated.
+* Quarterly - first date that will get generated, would be 3 months after the start date. Example: If you want the first date instance as June 2025, you will have to select the start date to be March 2025.
+* Bi-Annual - first date that will get generated, would be 6 months after the start date. Example: If you want the first date instance as September 2025, you will have to select the start date to be March 2025.
+* Annual - first date that will get generated, would be 12 months after the start date. Example: If you want the first date instance as March 2026, you will have to select the start date to be March 2025.
+
+
+  
+
+
+
+Step 8: This is how your indicator set will look like.
+
+
+  
+
+
+
+III. Add Tags to Data Input Indicators:
+
+
+Step 1: Go to the ‘my indicators’ page. Next to the indicator you want to add the tag to, click on the ‘add tag’ button.
+
+
+Step 2: Type in the tag name (Note: This tag appears on the front end, for data entry or approval).
+
+
+  
+
+
+
+Step 3: This is how the tag looks like. You can group similar metrics under the same tag, so it appears under one tag from the front end. Click on the ‘Sync Tags’ button to sync all your tags and indicators.
+
+
+  
+
+
+
+IV. Add Formulae to Calculated Indicators:
+
+
+Step 1: Go to the ‘My Indicators’ page. Next to the indicator you want to add the formula to, click on the ‘Add Formulae’ button or the Calculator icon on the indicator where the formula needs to be added.
+
+
+  
+
+
+
+Step 2: Click on the ‘Set Formula’ button.
+  
+
+
+
+Step 3: Select the type of input source as Indicator and Select the formula type - as summation/emission factors/product/average etc, and the indicators, and click on the ‘Save and Calculate’ button.
+
+
+  
+
+
+
+
+
+V. Replicate Indicators:
+
+
+Indicators can be replicated from one project to another, on the same account, OR within different accounts.
+
+
+Step 1: To replicate indicators on the same account, go to the project that you want to replicate the indicator on, and click on ‘+Replicate Metrics’.
+
+
+  
+
+
+
+Step 2: Select the project, and indicator set to be replicated, and to which project. You can also replicate ‘Primary’ indicators - meaning the entire indicator set, on multiple projects, together. For Secondary & Tertiary indicators to be replicated to other projects, it can only be done one project at a time. You can also select an appropriate duration of the indicator set from this page. Once done, click on ‘Submit; to replicate the indicator set.
+
+
+  
+
+
+
+Step 3: To replicate indicators from a different account on the SHR platform, use the URL: https://www.greendash.app/shr-indicator-libraries for GreenDash. For PROD / UAT, replace the greendash URL with the relevant URL. Select the user you want to replicate the indicator set from, the relevant project, and other details mentioned above, and the indicator set will get replicated.
+
+
+  
+
+
+
+VII. Add methodology & information:
+
+
+Step 1: Click on the ‘Indicators’ icon on the my-metrics page. For any indicator, click on the arrow to add the methodology & information.
+
+
+  
+
+Step 2: After adding it, click on update. You can also format it and add hyperlinks.
+
+
+  
+
+
+
+Recap:
+
+
+* Indicators are linked to the dashboard for real-time monitoring of data.
+* 2 types of indicators: Data input or Formula based.
+* Tags and formulae are connected to the indicators.
+* Group similar indicator sets under one tag. Example: Tag: scope 3 emissions for all scope 3 related indicators.
+* Indicators can be replicated to a different project on the same account, or from a different account on the SHR platform itself. However, you can only replicate on different accounts on the same platform - You cannot replicate indicators from an account on GreenDash, to PROD.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module 6: Dashboard Creation
+Context: Dashboard is created for data visualization, monitoring & evaluation as well as running any data simulations on the platform. The dashboard is completely configurable and customizable, down to the colors, icons, graphs and indicators to be added. This module is used in all 3 products. Follow Dashboard Guidance to build a dashboard as per SHR guidelines.
+
+
+Step 1: Go to ‘controller’ > ‘page builder’.
+
+
+  
+
+
+
+
+
+Step 2: Add the dashboard name in the ‘add template’ tab as ESG Dashboard for your master dashboard for ESG. Select ESG checkbox and select the status as active and click on submit. Your master dashboard is the main dashboard seen upon clicking on the dashboard from the front end. You can also create a similar master dashboard for CSR. Additionally, you can create multiple dashboards - Example: emissions, water, waste, employees - and link them to the master dashboard. These are known as ‘drill down dashboards’. 
+
+
+The drill-down configuration helps clients drill-down to the levels selected, right from the dashboard graphs that get built.
+
+
+   
+Step 3: Click on the ‘build’ option and start building the dashboard. You can edit the name, type & visibility by clicking on the pencil icon next to build. 
+
+
+  
+
+
+
+Step 4: The dashboard builder page looks like this as shown below with two options on the right as ‘build’ and ‘sections’. To build a filter, select build > type as filter, select what your default FY / CY should be, title color & background color and select the status as active and a date filter is created. You can also add a level drop-down (includes data type, grouping, & projects filter). Click on ‘data type’ to view available drill-down filters for ESG & CSR projects.
+
+
+  
+
+
+
+Step 5: To create a section, select build > type as section, add the title, title color and background color and select the status as active and a section is created.
+
+
+  
+
+
+
+Step 6: Click on ‘add element’. To create a data box, select the element type as data box.
+Details:
+i. Title, subtitle, subtitle font size, title color, data color, width & height. You can also connect an indicator to the subtitle, to show dynamic data against your data box / graph.
+ii. Module type - 2 types - ESG and CSR.
+iii. Element type - 6 types - data box, graph, project count, custom data, table, master data. (Note: Project count is only accurate if the indicator mapped to it is added to all projects. Custom data is static data present on the dashboard, which does not change in real time. This can be used for comparisons. Graphs can also be multi-axis, to show data by dates / projects / any other levels).
+iv. Explore - shows data coverage for all indicators and projects connected to the data box.
+v. Calculation type - 2 types - summation and average.
+vi. Status - 2 types - active and inactive.
+
+
+  
+
+
+
+  
+
+
+
+Recap:
+
+
+* Dashboards are customizable as per client needs. All dashboards need to comply with SHR Dashboard Guidelines & Client’s Brand Guidelines.
+* Graphs of different types can be added, with a flexible toggle.
+________________
+Module 7: Universe Cards
+Context: Universe cards are created as a ‘summary’. Indicators are mapped to universe cards, and updated in real time. You can add multiple universes, cards, as well as data to the indicators.
+
+
+Step 1: To create universes, ‘controller’ > ‘manage tags’. Add relevant tag names under the data collection category.
+
+
+  
+
+
+
+Step 2:  Next, go to ‘controller’ > ‘universe’. Create different universes by adding a name and icon for each. You will have to map an ‘ESG tag’ to each universe.
+
+
+  
+
+
+
+Step 3: Go to ‘controller’ → ‘manage universe cards’. Connect the relevant tags to the universe and metrics.
+  
+
+
+
+Step 4: Once created, this is how it’ll look like on the front end from an individual account. You can give specific universe access to particular employees. They will be able to see the data in an inactive mode, but they can only explore and drill down on the data for which they have access.
+
+
+Recap:
+
+
+   * Universe cards help in summarizing data. They appear on the first page after logging in, from an individual account who has access to the specific universes.
+   * Access for universes is given via teams - Refer module 3.
+
+
+
+
+
+
+
+
+Module 8: CSR Project Creation
+Context: This module is used to create CSR projects on the SHR platform. The main difference between ESG & CSR accounts is project creation. ESG tracks the environmental, social, and governance impact, and rarely financial impact (configurable on the platform). A client can create multiple CSR projects, sponsored via multiple of its entities, and implemented via multiple NGOs, through the master account, as well as through individual employee accounts, provided the entities are verified. 
+
+
+Login to an individual account that has access to the CSR module via teams > ‘add CSR projects on the top menu’. You can either add projects one at a time, or import them in bulk, via an excel sheet.
+
+
+  
+
+
+
+   1. Add a Single Project:
+
+
+Step 1: Click on ‘Add 1 Project’. Fill out all the relevant details in the project form. 
+
+
+  
+
+   * General:
+i. Select Create a new project or piggyback.
+ii. Add the sponsoring corporate entity for the project.
+iii. Add the project name, unique hashtag, cover picture & description (concepts explained below - see Module - Create Story). Set a standard format for project name. Example: Entity | Country | Theme | Name | Duration.
+iv. Budget required - Total budget for the project. If your project duration is more than a year, this is the budget for the entire project, not by year.
+v. Implementing partner - Toggle on if a project is being implemented by a NGO. Enter name of the implementing partner and amounts (concepts explained below - see Module - Create Story).
+vi. Sponsor - Toggle on to add your corporate entity that is sponsoring the project. Enter name of the implementing partner and amounts (concepts explained below - see Module - Create Story).
+vi. Enter project duration & distribution (concepts explained below - see Module - Create Story).
+vii. Add any relevant resources.
+viii. Project status - Select what is applicable.
+ix. Mode of implementation - Select what is applicable. Types: Direct - carried out by corporation, Third party - carried out by implementing partner.
+
+
+   * Objective:
+i. Select a relevant theme for the project. This allows automated SDG mapping, related to the theme. 
+Example: Theme - Education - Project gets mapped to SDG 4 - Quality Education.
+
+
+   * Expected Impact:
+i. Add expected outcomes of the project - text input.
+ii. SDGs - SDGs related to the theme selected under the objective are seen here. Select relevant SDGs.
+
+
+   * Beneficiaries:
+i. Types of beneficiaries - People, Environment & Local Community. Here, we set a target for the impact. Example: Project aims to provide educational support to 100 students. Select People > Fill details > Can select multiple ages and gender > Click on +add more to enter multiple locations if project impact is in multiple locations > Enter target number in no. of individuals. Click outside the box to autosave.
+(Note: If beneficiary type is environment, you can skip/enter 0 in no. of individuals)
+
+
+   * Implementation:
+i. Set milestones via this tab. Milestones are set to check progress of a project. Refer to Module to learn more.
+Example: Educational support —--> Milestones: MoU signing with school, Registration of students, Identify scholarship awardees, Provide financial support.
+ii. You can toggle on activity wise budget if you have a set budget for each milestone. Toggle it off and proceed, if not.
+iii. Enter project milestone name, reporting timeline, and frequency as well as expected outcome and type of relevant evidence. (Note: Reporting timeline and frequency should be set keeping in mind the project duration).
+iv. You can add multiple milestones for a project.
+
+
+   * Monitoring: Leave as it is.
+
+
+   * Contact: Enter contact information.
+
+
+   * CSR: Click on the checkbox and submit the project.
+
+
+(Note: If you are making a change in an existing project, make sure you make the changes and save on the particular tab, as well as save the project via the CSR tab).
+
+
+   2. Bulk Data Migration:
+
+
+Step 1: Click on ‘Bulk import / update projects’. Click on the blue ‘Import CSR’ button, and download the sample excel file.
+
+
+  
+ 
+
+
+Step 2: Fill in details as explained above. Under the ‘Create’ column, write ‘Create’ to add a project, and ‘Update’, to make changes in any existing project. Save and Import the file.
+
+
+Step 3: (To be done for Single project creation too) On the same page, select your project, and click on ‘Publish project’.
+
+
+  
+
+
+
+Step 4: For Third-party implementation projects, click on ‘Add Implementing Partner’ to map your NGO to the project.
+
+
+This is how your created project will look like, on the overview page.
+
+
+  
+
+Recap: 
+
+
+   * Targeted beneficiaries & milestones are set via this module.
+   * If changes are to be made in a project, update on the particular tab as well as save changes on the CSR tab.
+   * Projects can be added either one by one or in bulk via data migration.
+________________
+Module 9: Set Budget
+Context: This financial module is used for CSR accounts ONLY. 
+
+
+   1. Activating the Module:
+
+
+Step 1: Go to ‘controller’ > ‘financial budget settings’. 
+
+
+  
+
+
+
+Step 2: Under settings, Toggle on ‘Connect Set Budget with Indicator’. You can also change the name of the tag, but it’s not necessary. These are system generated indicators that usually need to be as per the project duration, but in cases where additional dates are required, you can choose the other option.
+  
+
+
+
+Step 3: View all financial budget KPIs under ‘Set Budget KPI’s’. These indicators are automated by entity. Every entity has 6 automated KPIs: Allocated, Disbursed, Unspent, Unutilized, Unspent carried forward, & Allocated incl. unspent in FY. (Note: Allocated, disbursed and utilized in FY are data inputs, the rest are formulae based and calculated by platform.) If you have 3 entities, the sponsor that you add during project creation will be automatically selected and KPIs will be generated for the same entity. Utilised in FY is by project, not by entity, due to CSR-2 reporting regulations.
+
+
+  
+
+
+
+
+
+Step 3: To map a project, click on 'Pending Mapping Projects’, select the project you want to map, and click on ‘Map with Set Budget KPI’s’. Your project will be mapped. Click on ‘mapped projects’ and you will be able to see the mapped project.
+
+
+  
+
+
+
+
+
+   2. How to view & use this module from an individual account:
+
+
+Step 1: On your overview page, click on the ‘Amount’ column. You can also alternatively view the financial details for all projects, by clicking on the ‘Set budget’ option on the left menu.
+
+
+  
+
+
+
+Step 2: Connect more than 1 entity as a sponsor, to the project by clicking on ‘connect entities’
+
+
+  
+
+
+
+Step 3: You may see a ‘click to sync’ button for projects that have durations for the indicators, differing from project duration. This may happen in cases where the project duration is changed after the set-up. You can just click on the button to sync the dates.
+
+
+  
+
+
+
+   3. Module Details:
+
+
+i. Committed Amount: Entire project budget.
+ii. Allocated Amount: Project budget by specific year / month.
+iii. Disbursed Amount: Disbursals done by corporate donors.
+iv. Utilized Amount: Utilization done by the NGO.
+v. Unspent Amount: Unspent amount by the corporate donor. System calculation set as Allocated amount - Disbursed amount.
+vi. All ‘data providers’ can click on the + icon under any column to add relevant information. All data approvers can approve the data.
+vii. View the entire budget by clicking on ‘Annual budget’. 
+
+
+  
+
+
+
+   4. Set up the Disbursal Schedule:
+Disbursal schedule is set-up for third-party implementation projects, to track whether deliverables for the payment have been added. The corporate donor gets visibility over this, so that the next payment can be disbursed. Corporate donors set these conditions for next payment approvals, so that the project has progressed as expected. The disbursal schedule can be set only by a data approver. The NGO data provider will have to add the utilization for every date instance that is added here.
+
+
+Step 1: To set up the disbursal schedule as a corporate donor, go to the set budget page, and click on the ‘Approve Payment’ under the utilized amount column.
+
+
+  
+
+Step 2: These dates are auto-generated as per allocation dates. To add more dates to set a disbursal condition to, click on the disbursal schedule.
+
+
+  
+
+
+
+Step 3: Add the details as per the MoU’s payment milestones section. Here, link the relevant milestones or indicators (outcomes) as per your MoU.
+
+
+  
+
+
+
+Step 4: This is how your disbursal schedule should look like.
+  
+
+
+
+Step 5: As a data provider, to add utilization amounts, you will see a ‘View Payment’ button.  
+
+
+Step 6: View all dates you need to add utilization for, and click on request payment.
+
+
+   
+
+
+Step 7: The data provider will have visibility over the conditions set. You can view the Approval status, as well as the evidence right from this page. 
+________________
+
+
+  
+
+Step 8: To add utilized amount, add the utilization in the ‘Amount utilized’ column, and upload the FUC (Fund Utilization Certificate) that is relevant, and click on update.
+
+
+  
+
+
+
+Step 9: Once the amount is added by the NGO data provider, the data approver will have to login, and approve the payment, by following the same steps as above.
+
+
+Recap:
+
+
+   * Set budgets are used for CSR accounts.
+   * Enable 'financial budget indicator tag.'
+   * Automated KPIs: Allocated, Disbursed, Unspent, Unutilized, Unspent carried forward, Allocated incl. unspent in FY.
+   * Map projects, view in mapped/unmapped tabs.
+   * Budget details in the Outcomes tab.
+
+
+Module 10: Automated Report Creation
+Context: This is a configurable module wherein multiple reporting frameworks can be set up, to facilitate automated reporting for clients as per their needs. Currently, BRSR, DJSI, & GRI are on the platform on PROD. Custom reports for CSR / ESG / EEE Monitoring & Evaluation can also be set-up.
+ 
+Step 1: You can go to the ‘Reporting’ module via ‘Controller’.
+  
+
+
+
+Step 2: Click on ‘Add’ to add a new report. Select the title, start and end date, frequency, & projects applicable to this report. This will act as filters for your report.
+
+
+  
+
+
+
+
+
+Step 3: Go to ‘report builder’ > ‘add section’. The add section will be a sub-section under the main report headline. Under each section created, we can add sub-sections or click on the build/edit module and then ‘add item’ to add content under the particular sections. Under the add item section, there are 4 element types - text, heading, table & file.
+
+
+  
+
+
+
+  
+
+
+
+Step 4: Upon creation of a table, you can also further modify the table & add rows or columns. You can also edit the title of the table.
+
+
+  
+
+Step 5: For mapping relevant indicators, Tags have to be added. Go to Manage Tags from Controller > Manage Tags > Reporting > Add the relevant ‘Tag Name’. After mapping the tags, go to Tags-Indicators Mapping and select Category - Reporting> Select tag - BRSR Sub-section > Select Metrics. Then, from Connect Tags on the Reporting module, choose the relevant tags and Submit.
+  
+
+  
+
+  
+________________
+
+
+
+
+
+Step 6: By clicking on ‘Edit’ from   (three dots on the right-hand side), you can input the data using 3 input types:
+   1. Input Number: Example- Codes / IDs which are not captured from the Platform can be updated using number input.
+   2. Input Text: Example: Qualitative metrics can be updated 
+   3. Metrics: The metrics which are being captured on the Platform can directly be tagged from which will keep getting updated as and when the data is entered on the portal.
+  
+
+
+
+
+
+Step 7: Click on ‘Generate Report’ to view the entire report created. You can also generate reports sectionwise. The Report can be downloaded from the ‘Download Report’ section.
+  
+
+  
+
+
+
+Module 11: Deep Data Module
+Context: There are 2 parts to this module: Add People Module - for data collection of beneficiary data - CSR & Deep Data Module - mostly for ESG.
+
+
+   * People module - will be used for beneficiary data with some default fields, Deep data module - custom template build it by yourself. 
+   * Multiple templates can be connected to the same projects only via deep data module category, not for people module category.
+
+
+Step 1: Access the deep data module from the corporate account’s ‘controller’ > ‘manage deep data’ or, from the Beneficiaries icon on the top menu, from an individual account.
+  
+
+
+
+Step 2: You can add the template Title and select ‘People Module for CSR’ and ‘Deep Data Module for ESG’.  
+
+
+
+
+Step 3: You can add multiple fields to collect data through ‘build’. 15 fields are system generated. If not needed, turn their status inactive.
+Details:
+i. Title.
+ii. Required - mark if mandatory field.
+iii. Display on front - mark if the field is to be displayed on the front end.
+iv. Type - type of input accepted for this field. Types: name input, number input, checkbox, drop down, file, date, etc.
+  
+
+
+
+Step 4: Logic is applied if there is any condition that needs to be added to the question. 
+Example: If ‘Type of Intervention’ is equal to ‘Skill Development’, the ‘Skill Development Training Status’ field is mandatory.
+  
+
+
+
+Step 5: Filter and Search is applied to sort/find the data based on your chosen criteria. Example - If the template is for an Education project, you can add a field to sort by ‘Standard’. 
+  
+
+
+
+
+
+
+
+
+
+
+
+Step 7: Adding Formulae is essential to process the number of beneficiary data entered, which will ultimately be connected to the indicators and then reflected on the dashboard. 
+There are 3 types of beneficiary formulae - Count, Average and Sum. 
+Count is used to give the total number of beneficiaries benefitted. Eg - Number of Students Placed
+Average - Example - can give us the Average age of the students
+Sum - Example - Total cost of supplies donated
+  
+
+
+
+Step 8: Connected projects shows which Beneficiary template that specific project is connected to. You can also choose to connect that particular template to another project from the ‘Select Project’ dropdown.
+  
+
+
+
+Step 9: Due dates are applied to get the Triggers before a particular period of time when the Due date for the activity is near. Example: If we want a trigger before 10 days of the Course Completion. 
+  
+
+
+
+Step 10: Freq data, formula and logic are applied when the beneficiary details are frequently captured instead of one-time data. For eg: While entering Student’s data, Body Height and Body Weight will be dynamic in nature and will be entered bi-annually.
+
+
+Note: The Formula and Logics are applied in the same manner as one-time data.
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+Module 12: Create Stories - Story, Opinion, Quiz, Blog, Survey, Volunteering Event, Challenge, Pictory, Comparison
+Context: Clients can create content via the SHR platform using this module. This is mainly used in EEE (Experiential Employee Engagement). Employees connected to the client can also create content and interact with content created by other employees/client master accounts via the live feed page.
+
+
+Note: The steps to create either type of content are the same.   
+
+
+Step 1: Once you login, click on the   icon. menu icon and ‘+Create’ option from the top right corner of the menu.
+  
+
+  
+
+
+
+Step 2: You can create a story via clicking on the 2nd option - Share a Story.
+
+
+  
+
+
+
+Step 3: You can select any of the 8 types of story modules from this page. To create new content, fill in the details and hashtag, images and other details as required.
+
+
+  
+
+
+
+Step 4: If you wish to create a story based on a previous story on the platform, you can choose the ‘piggyback’ option instead of the create new option.
+
+
+Step 5: Details -
+i. Category: Select a category relevant to your story.
+ii. Hashtag: Enter a unique hashtag for your story.
+iii. Name: Enter a title for your story, upto 40 characters.
+iv. Cover picture: Click on the upload a picture option to upload a picture relevant to your story.
+v. Description: Add the description of a minimum of 100 characters.
+vi. Location: Select from the options provided.
+vii. Sponsor: If the content of the story is sponsored, toggle the button from No to Yes. Fill in the Sponsor - Entity Name, Donated Amount and the Committed Amount. You can also upload an image of the details of the same. (Note: Donated amount - amount spent on the activity, Committed amount - amount intended to be spent)
+viii. Distribution Visibility : You can select who you want your story to be sent to, and visible to. 
+ix. External links: Add any relevant external links as per your content of the story. Also there is a +add more option such that by clicking on it you can add more than one link. You can also delete a link by clicking the delete icon button on the right end.
+x. Gallery: Add one image or click on +add more to add more than 1 image relevant to your story apart from the cover picture.
+
+
+Step 6: This is how your story will appear, once submitted.
+  
+
+
+
+Step 7: You can view public stories created on the SHR platform by clicking on ‘Stories’.
+
+
+  
+
+
+
+Recap:
+
+
+   * This module is used for EEE clients.
+   * The process for creating any type of content is exactly the same.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module 13: Create Events
+Context: This module is used for EEE clients.  
+
+
+Step 1: On your Master account, click on the            icon and ‘+ Create’ button on the menu.
+
+
+  
+
+  
+
+
+
+
+
+Step 2: Click on the ‘organize an event’ option. There are 2 types of events: physical & virtual volunteering. 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+Step 3: Select the ‘event type’ and click next.
+
+
+  
+
+
+
+
+
+Step 4: Select the relevant SDGs related to it and click on next.
+  
+
+Step 5: Select the frequency of the event.
+
+
+  
+
+
+
+Step 6: Select the purpose of the event (Note: the purpose is related to if you require volunteers or participants).
+  
+
+
+
+Step 7: Fill in the details of the event and click on next.
+
+
+  
+
+
+
+Step 8: Select and fill in the location details in coordinates.
+
+
+  
+
+
+
+Step 9: Fill in the inclusion details and click on next.
+
+
+  
+
+
+
+Step 10: Fill in the impact details if the event is sponsored, and implementing partners if carried by some other organization. Once done, click on the publish button.
+
+
+  
+
+
+
+Step 11: This is how an event looks like, when published.
+
+
+  
+
+
+
+Recap: 
+   * 2 types of events: physical & virtual.
+   * The process for creating any type of event is exactly the same.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module 14: Import Wizard
+Context: Import wizard module is used to integrate a client’s existing systems with the platform for seamless data entry. You can build multiple import templates for the client, in the format that is the most easy for them to upload data in.
+
+
+Step 1: Go to ‘controller’ > ‘import wizard’.
+
+
+Step 2: Using the ‘format’ feature, one can select the columns and rows the data input format needs to be in.
+
+
+  
+
+
+
+Details: 
+i. Select the category as ‘indicators data import’ and add a suitable title (can be the title of the project/theme/other.) 
+ii. In the format table, you can choose the rows and columns that the data will be input in. 
+iii. In this case, the project title will be entered in the row and dates will be added in the columns. Also, ensure you add a data cell as that is where the data for the indicator will need to be added in, while importing.
+iv. Select and add all the relevant tags for the data that has to be imported in.
+v. Once all the relevant details are filled in, click on ‘submit’.
+
+
+For Data Import:
+i. When you login from your individual account for data import, you will be able to see the ‘Import’ button, on all projects where the tag is connected.
+ii. Create your excel sheet as per the format set, and try importing it to test it out.
+
+
+
+
+
+
+
+
+Module 15: Email Template 
+Context: This module is used to send email reminders and flag any incomplete tasks to data providers/approvers. It is completely configurable and can be customized based on the project, team member, etc the email is to be sent to. All clients on PROD have 100 free emails as part of their subscription.
+
+
+Step 1: Go to ‘controller’ → ‘manage email templates’ → add a new template. You can also access this from your individual account’s top menu. Click on ‘Add new template’.
+
+
+  
+
+
+
+Details: 
+
+
+i. Enter a suitable template name and then select the type of notification the email template is required to send.
+   1. Project status notification which will notify the health of the project
+   2. Data provider notification which informs the data provider that the data entry is pending from their end , if the data for the project is less than 100%.
+   3. Custom message notification can be set up for any custom emails.
+
+
+ii. Schedule start and schedule expires can be set in accordance with the project and milestone timelines. The email template will keep notifying them during that particular period. Post the scheduled expiry date the notifications will discontinue.
+
+
+iii. Accordingly select the frequency of notification and add the subject name and a custom message (if necessary). As only 100 free emails are applicable per client, think of various possibilities of what frequency fits best, given the no. of users & projects that the emails would go out to.
+
+
+iv. Add the email subject and message. You can format the subject body of the email too. 
+
+
+v. Select the details that need to be included in the email - milestones, data coverage, budget) and select the type of function that the email needs to go to (Data providers / approves / other).
+
+
+vi. DO NOT use the ‘Send email to specific team’ option as it is currently underdevelopment.
+
+
+vii. Select project type, and if you wish to only send emails for specific projects / exclude certain projects, choose the projects accordingly. Once that is done select the status as ‘active’ and ‘save’. 
+
+
+viii. You can also send emails based on entity, in case there are multiple projects and multiple entities involved.
+
+
+ix. Once you save the template, a preview button is visible when you re-visit the template. Make sure you ‘Preview’ the email to check whether all information is correct.
+
+
+
+
+
+
+
+
+
+
+
+
+Module 16: Milestones
+Context: This module is used in tracing project health for CSR projects.
+
+
+   1. Set Milestones:
+
+
+Step 1: Login using your individual account. Milestones, also known as ‘Activities’ is a column on the overview table.
+
+
+  
+
+
+
+Step 2: Click on ‘NA’ under Activities for the Project, and click on Add/Edit.
+
+
+  
+
+
+
+Step 3: Add milestone dates as per the Project MoU. The reporting timeline is the date the milestone would start from, and you can select if the milestone needs to be a one-time input, or recurring. Add expected outcome, and expected evidence for the milestone.
+
+
+  
+
+Step 4: You can also toggle on ‘Include activity-wise budget’, if every milestone has some budget allocated to it, as per the Project MoU. Ensure that the entire project budget is accounted for, or the page will not move forward. Click on ‘Save changes’, go to the last ‘CSR’ tab, and submit.
+
+
+  
+
+
+
+   2. Add Evidences to Milestones:
+
+
+Step 1: Once your project milestones are created, your project health will be calculated based on if all dates are updated on time, or delayed. To add evidence, click on the blue button besides the date generated, and upload the relevant file. You can either upload a file, or add a relevant link.
+
+
+  
+
+
+
+  
+
+
+
+Step 2: Once added, the project health will increase. The calculation of project health is based on dates with evidence / total active dates. Example: If there are 3 active dates, and 1 of them has evidence added, the project health will show as 33%. The duration status is based on your project duration. 
+
+
+Project status:
+   1. If the project duration is more than the project health, the project status will be ‘Running late’. 
+   2. If the project duration is equal to the project health, the project status will be ‘On time’.
+   3. If the project duration is less than the project health OR both are 0%, the project status will be ‘Not started’.
+
+
+III. Replicate Milestones:
+
+
+Step 1: Milestones can be replicated from one project to another, on the same account, or from a different account too. Use the URL: https://www.greendash.app/shr-replicate-project-implementation for GreenDash, & https://www.mysuperhumanrace.com/shr-replicate-project-implementation for PROD
+
+
+Step 2: Select the user, project & milestones that need to be replicated, and submit. You may need to go to the ‘Activities’ page and edit dates for the replicated milestones.
+
+
+  
+
+
+
+
+
+Module 17: Due Diligence
+Context: 
+
+
+   1. For Corporates: All clients on the platform need to submit some basic due diligence documents.
+
+
+Following documents are required for each of the corporate entities that are added:
+   * Logo*
+   * Tax Identification Document (Pan Card, for Indian Entities)*
+   * Certificate of Incorporation *
+   * Tax Registration (GSTIN, for Indian Entities) *
+   * CSR Policy Document
+   * Annual Report
+
+
+   1. For NGOs: All NGOs mapped to the platform need to submit a set of documents, as part of their account set-up. These documents are required for Basic Due Diligence scoring on the platform, as per MCA guidelines.
+
+
+The documents needed for non-profit entities are summarized as follows:
+   * Logo*
+   * Tax Identification Document (PAN Card, for Indian Entities)*
+   * Certificate of Incorporation *
+   * Proof of Tax Exemption (Forms 80G, 12A, 10AC etc.) *
+   * CSR Eligibility (CSR-1 Form)*
+   * Annual Report (optional)
+   * 3 years Audited Financial Returns (optional)
+   * Vision & Mission Statement (optional)
+   * Accreditation (optional)
+
+
+   1. Adding Due Diligence documents for NGOs:
+
+
+Step 1: Once the NGO account is created, login and click on the setting icon. First, add a registered entity for the NGO, by following the same process done for entity creation for a corporate account.
+
+
+Step 2: Click on the pencil icon for Documentation, add the document number as well as upload the documents.
+
+
+  
+
+
+
+   2. Verifying Due Diligence Documents via Admin:
+
+
+Step 1: Login to the admin platform using credentials on the Platform Credentials sheet. Click on View > Profile.
+
+
+  
+
+
+
+Step 2: View documents uploaded by the NGO, and mark the status as verified if it’s the right document. If the NGO is mapped to a corporate donor, the NGO will be visible on the ‘Implementing Partners’ section on the left menu, along with the due diligence %. If you click on the ‘Due diligence’ button, you will also be able to see the documents submitted by the NGO.
+  
+
+
+
+  
+
+
+
+
+
+Module 18: Overview Customization
+Context: The CSR Overview table that is visible upon logging in from the individual account, is customizable, to better suit client needs. Customization access should only be given to the corporate admin team.
+
+
+Step 1: From the admin page, go to View > View Permission > Toggle on ‘Custom Overview Access’.
+
+
+  
+
+
+
+Step 2: From your individual account, click on the ‘overview’ icon, on the top menu.
+   
+
+
+Step 3: Select ‘Customize’. You can make certain columns inactive, rename all column names, and for the first 4 column types, you can choose how the projects need to be grouped. As default settings, projects are grouped by Creator Name - the NGO in most cases, the corporate entity in case of a direct implementation project.
+  
+
+
+
+Step 4: For beneficiaries - target v/s actual - you can add a certain tag to the indicator that is more relevant for these columns, and map the tag for these columns. Example: For a waste management project, the primary beneficiary may not be people, but may be waste diverted. So, a tag can be added on the waste diverted indicator, and the same tag can be mapped here, so that the relevant data is visible on the overview table.
+
+
+  
+
+
+
+Step 5: You can also export this table, as is, by clicking on the ‘Export’ button.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   1. Other Controller Features
+Context: Quick brief on some smaller features, visible from the controller.
+
+
+   1. Bulk update CSR Projects - For Data Migration.
+   2. Add ESG Project - Linked to Project Form.
+   3. Category / Parameters - Not currently functional.
+   4. Project Form.
+   5. Org Structure - To set-up the organization structure for ESG.
+   6. Manage Deep Data.
+   7. Formula - Linked to Indicators.
+   8. My Indicators.
+   9. Milestone Tags
+   10. Teams.
+   11. Manage Tags - Linked to Universe Cards & Report Creation.
+   12. Dashboard Builder.
+   13. Import Wizard.
+   14. Employer Settings - Linked to Entity Creation.
+   15. Manage Category. - Used to rename CSR Categories on the platform, if needed.
+   16. Manage Email Templates.
+   17. Data Lock Settings - Used for freezing any data across ESG & CSR Products, so that no changes can be made to the data.
+   18. Reporting.
+   19. Manage Workflows.
+   20. Financial Budget Settings.
+   21. Manage Overview.
+   22. Universe.
+   23. Manage Template - Linked to the ‘Template’ in teams, while creating a team.
+   24. Manage Universe Card.
+   25. Manage Controller Access - Used to provide controller access to corporate admin team for ESG.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   2. Individual Account: 360° View
+Context: Since some modules differ in ESG & CSR accounts, the login interface from individual employee accounts (front end) is slightly different.
+
+
+   1. ESG Account: This is the login interface for an individual account connected to an ESG master account. 
+Details:
+i. The left panel shows the structure of the organization. Specific access for each level can be given to certain individuals to do necessary data entry/approval/view data.
+ii. Summary - This section is where the universe cards you create are displayed. The universe cards not assigned to the individual (from teams) appear as grey. You can explore and look at data for the universe card visible to that account.
+iii. Approve Data - Clicking on this button takes you to indicators at the particular level that have data inputs. For a data provider’s account, this button is ‘add data’.
+
+
+  
+
+
+
+   2. CSR Account: This is the login interface for an individual account connected to a CSR master account. 
+
+
+  
+
+Details:
+i. Overview - This section at the top shows the user journey. This section can be customized via teams, based on the user.
+ii. Left Panel - This section can be customized from ‘teams’. You can select CSR page access while creating a team.
+   1. Overview - View all projects under your access.
+   2. Project Summary - View all your pending and verified projects. You can also check other details like CSR Eligibility etc, of the project, from this page.
+   3. Set budget - View all financial indicators for all projects, and you can do data entry/approval from here.
+   4. Monitoring activities - View all the milestones set for the project and project health.
+   5. Monitoring outcomes - View all the indicators mapped to the project for data entry/approval.
+   6. Implementing Partners - View all NGOs mapped to your organization, along with due diligence status for the same.
+   7. Checklists, Planning & Budgeting is not in use anymore. We’ve switched to the set budget module.
+   8. Settings - View your profile settings.
+   9. Proposals - View proposals offered by NGOs to the corporate organization.
+   10. Compliance is a static page.
+   11. KPIs Tag List - View a compiled list of all tags, which is exportable and importable.
+   12. Document Summary - Add documents if relevant, to maintain as a document repository that can be seen by teams that have access to this section.
+   13. Reports - View/Build reports.
+   14. Suppliers - View Supplier Self Assessment Responses - for ESG only.
+
+
+Project overview: You can view all published. projects from the ‘overview’ section. The overview table can be customized using the ‘Overview’ icon on top.
+Details:
+   1. Amount shows your amount received (disbursed) / amount committed (allocated) - via set budget module.
+   2. Beneficiaries shows you actual beneficiaries - via beneficiary template / target beneficiaries - via CSR project details.
+   3. Activities show project health based on milestone completion.
+   4. Outcomes show you data entered / data approval by percentage.
+
+
+Project level dashboard: View this by clicking on the project name.
+Details:
+   1. View duration, location, UN SDGs connected to the project, financial information, project health, duration status, data coverage, beneficiaries impacted, implementing partner information, milestone and evidence galleries. 
+   2. Quick access panels include the same modules as covered earlier.
+  
+
+
+
+
+
+
+
+
+
+C. Engagement Barometer & Engagement Calendar
+Context: When we onboard new clients, we prepare an engagement calendar to follow our 12-week account creation process - Engagement Barometer
+
+
+Note: 
+
+
+   * We prepare a folder for the client - if it is a demo client we create the folder under demo accounts. 
+   * We copy the folder from the ESG clients folder if it’s an ESG client or the CSR clients folder if it's a CSR client.
+   * Go to the client engagement folder and prepare the three important documents - Meeting tracker, engagement calendar, and process checklist. 
+   * The checklist keeps track of the process as well as the specific requirements the client may have.
+   * The checklist shows the division of the process into phases.
+   * After each meeting, update the meeting notes, tracker, tech requirements, & issue register based on the conversation.
+   * The scribe for every meeting usually prepares the meeting notes - which are forwarded to the client. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module 19: Data Entry
+Context: After the modules are set to start with the data entry process, partners can begin the data entry using 2 modules (FOR CSR):
+
+
+   1. Add People Module
+   2. Monitoring Outcomes
+
+
+   1.  Add People Module - CSR 
+
+
+Step 1: Click on the no. of beneficiaries in the Beneficiaries section to upload the beneficiary details.
+  
+
+
+
+Step 2: By clicking on ‘Add Data’, there are 2 options either to ‘Add Single Data’ or ‘Add Bulk Data’. You can add data of one beneficiary using the ‘Single data’ template.  
+  
+
+
+
+Step 3: For adding beneficiaries in bulk, select ‘Add Bulk Data’. Download the sample file and open it. The fields with dropdowns have to be filled properly and fields with * will be mandatory. Once all the fields are updated, save the csv/xlsx file and upload it.
+  
+
+  
+
+
+
+Step 4: You can also ‘Edit or Delete Beneficiary details’ either for a single beneficiary or in bulk. For Single Edit, click on the pencil icon against each beneficiary. For deleting the beneficiary, click on the Dustbin icon.  
+
+
+Step 5: For Bulk edit, Go to Filters > Export. In the exported sheet, update the beneficiaries details and click on ‘Bulk Education Edit’ and upload the corrected file. For Deleting in Bulk, you can tick the checkbox against each beneficiary and click on Delete.
+
+
+  
+
+  
+
+
+
+B. Monitoring Outcomes - CSR
+
+
+Step 1: Go to the ‘Outcomes’ section either from the Left menu or from the Projects panel. 
+  
+
+
+
+Step 2: Click on the Blue arrow button next to the tag. The data can be updated for a single month or in bulk for all the months together. For uploading individual data, click on ‘Add data’, against the month where you wish to enter data. Add the data and Evidence for that month and submit the data.
+  
+
+  
+
+
+
+Step 3: For Bulk data upload, click on ‘Export’ to download an excel file. Enter the details in the excel, save the file and upload it using ‘Import’ button.
+
+
+Note: The Evidence will have to be uploaded individually even during the bulk upload. 
+  
+
+
+
+
+
+C. Data Entry - ESG
+
+
+The ESG interface for data entry is slightly different from CSR. In the left menu, the different levels of the organisation will be visible (as you keep clicking on one level, the next level opens). The relevant indicators are mapped at all the levels.
+
+
+Step 1: The data entry process for indicators will be similar to the Monitoring Outcomes in CSR. The single data and evidence can be updated by clicking on ‘Add data’. The Bulk upload can be done by exporting an Excel sheet and importing it after filling the details.
+  
+
+  
+
+
+
+Step 2: For adding data through Deep Data Module, click on the blue arrow and ‘Add Data’. You’ll land on the Template where data has to be filled. Here, also the data can be uploaded via a single entry or the bulk data upload (similar to the data entry process in Add People Module for CSR).
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reading Resources:
+   1. ESG 
+   2. CSR 
+   3. EEE 
+
+
+Congratulations, you've officially achieved the ‘Super-User’ status @ SHR! Welcome Aboard! :) 
+Confidential - For Authorized Recipients Only                                                   Version 1.2 | Last Updated: Mar 7, 2025
+                                                                                                                                                               Page No:
