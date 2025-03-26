@@ -1,3 +1,5 @@
+import os
+os.system("pip install -r requirements.txt")
 import streamlit as st
 from chatbot import handle_query  # Import the chatbot function
 
