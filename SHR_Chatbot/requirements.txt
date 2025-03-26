@@ -1,6 +1,9 @@
+streamlit
 langchain
-openai
+langchain_google_genai
+faiss-cpu
 google-generativeai
+openai
 faiss-cpu
 python-dotenv
 requests
