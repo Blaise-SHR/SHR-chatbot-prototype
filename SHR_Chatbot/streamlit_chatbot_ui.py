@@ -1,18 +1,12 @@
-# Streamlit UI for Chatbot
-# pip install streamlit requests
-# python -m streamlit run streamlit_chatbot_ui.py
-
-import streamlit as st 
-import requests
+import streamlit as st
+from chatbot import handle_query  # Import the chatbot function
 
 st.title("SHR Support Chatbot")
+st.write("Hello I'm Ray! How can I help you become a SuperHuman today?")
 
-user_input = st.text_input("You:", "")
+#Input field for user to type in
+user_input = st.text_input("You:", "", placeholder="Type 'thank you' to exit")
 
 if user_input:
-    response = requests.post("http://127.0.0.1:8000/chat", json={"user_input": user_input})
-    if response.status_code == 200:
-        bot_response = response.json()["response"]
-        st.write(f"**Bot:** {bot_response}")
-    else:
-        st.write("Error: Could not get a response from the chatbot.")
+    bot_response = handle_query(user_input)  # Call the chatbot function directly
+    st.write(f"**Ray:** {bot_response}")
