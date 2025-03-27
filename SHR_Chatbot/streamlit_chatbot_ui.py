@@ -4,7 +4,8 @@ import streamlit as st
 from chatbot import handle_query  # Import the chatbot function
 
 st.title("SHR Support Chatbot")
-st.write("Hello I'm Ray! How can I help you become a SuperHuman today?")
+st.write("Hello I'm Ray!")
+st.write("How can I help you become a SuperHuman today?")
 
 #Input field for user to type in
 user_input = st.text_input("You:", "", placeholder="Type 'thank you' to exit")
